@@ -26,3 +26,9 @@
 
 
 
+\## Version 1.6
+
+\- Added Address field to Student structure.
+
+
+
