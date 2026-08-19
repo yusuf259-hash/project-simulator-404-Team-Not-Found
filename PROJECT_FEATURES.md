@@ -32,3 +32,9 @@ The system now stores the Address of every student.
 
 
 
+\## Student Gender
+
+The system now stores the gender of every student.
+
+
+
