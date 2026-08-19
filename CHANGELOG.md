@@ -32,3 +32,9 @@
 
 
 
+\## Version 1.7
+
+\- Added Gender field to Student structure.
+
+
+
