@@ -44,3 +44,9 @@ The system now stores the semester of every student.
 
 
 
+\## Student Credit Hour
+
+The system now stores the credit hour of every student.
+
+
+
