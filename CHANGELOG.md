@@ -6,3 +6,9 @@
 
 \- Added age field to Student Structure.
 
+
+
+\## Version 1.2
+
+\- Added CGPA field to Student structure.
+
