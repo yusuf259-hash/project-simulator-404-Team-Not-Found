@@ -38,3 +38,9 @@
 
 
 
+\## Version 1.8
+
+\- Added Student Semester field to Student structure.
+
+
+
