@@ -50,3 +50,9 @@
 
 
 
+\## Version 1.10
+
+\- Added Student Status field to Student structure.
+
+
+
