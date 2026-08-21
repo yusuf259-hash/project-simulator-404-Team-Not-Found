@@ -62,9 +62,7 @@
 
 
 
-\## Version 1.11
+\## Version 1.13
 
-\- Updated Student name field to Student structure.
-
-
+\- Updated Student phone number capacity field to Student structure.
 
