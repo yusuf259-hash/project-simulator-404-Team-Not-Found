@@ -1,94 +1,72 @@
-"# Changelog"
+\# Changelog
 
 
 
-\## Version 1.1
-
-\- Added age field to Student Structure.
+\## Version 1.0 - Initial Student Structure
 
 
 
-\## Version 1.2
+\-Initial Student Structure created.
+
+
+
+\## Version 1.1 - Added Student Academic Information
+
+
+
+\- Added age field to Student structure.
 
 \- Added CGPA field to Student structure.
 
-
-
-\## Version 1.3
-
-\- Added department field to Student structure.
-
-
-
-\## Version 1.4
-
-\- Added email field to Student structure.
-
-
-
-\## Version 1.5
-
-\- Added phone number field to Student structure.
-
-
-
-\## Version 1.6
-
-\- Added Address field to Student structure.
-
-
-
-\## Version 1.7
-
-\- Added Gender field to Student structure.
-
-
-
-\## Version 1.8
-
 \- Added Student Semester field to Student structure.
-
-
-
-\## Version 1.9
 
 \- Added Student Credit Hour field to Student structure.
 
 
 
-\## Version 1.10
+\## Version 1.2 - Added Student Personal Information
+
+
+
+\- Added department field to Student structure.
+
+\- Added email field to Student structure.
+
+\- Added phone number field to Student structure.
+
+\- Added Address field to Student structure.
+
+\- Added Gender field to Student structure.
+
+
+
+\## Version 1.3 - Added Student Status Information
+
+
 
 \- Added Student Status field to Student structure.
 
 
 
-\## Version 1.11
-
-\- Updated Student name field to Student structure.
+\## Version 1.4 - Updated Student Fields
 
 
 
-\## Version 1.12
+\- Updated Student name field in Student structure.
 
-\- Updated Student address capacity field to Student structure.
+\- Updated Student address capacity field in Student structure.
 
-
-
-\## Version 1.13
-
-\- Updated Student phone number capacity field to Student structure.
+\- Updated Student phone number capacity field in Student structure.
 
 
 
-\## Version 1.14
-
-\- Updated Student ID field to Student structure.
 
 
-
-\## Version 1.15
-
-\- Renamed Student Name field to Student structure.
+\## Version 1.5 - Renamed Student Fields
 
 
+
+\- Renamed Student ID field in Student structure.
+
+\- Renamed Student Name field in Student structure.
 
