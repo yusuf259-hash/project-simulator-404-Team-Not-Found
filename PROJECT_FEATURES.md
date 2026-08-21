@@ -1,94 +1,116 @@
-"# Implemented Features"
+\# Implemented Features
 
 
 
 \## Student Age
 
-The system now stores the age of every student.
+The system stores the age of every student.
 
 
 
 \## Student CGPA
 
-The system now stores the CGPA of every student.
+The system stores the CGPA of every student.
 
 
 
 \## Student Department
 
-The system now stores the department of every student.
+The system stores the department of every student.
 
 
 
-\## Student email
+\## Student Email
 
-The system now stores the email of every student.
+The system stores the email of every student.
 
 
 
-\## Student phone number
+\## Student Phone Number
 
-The system now stores the phone number of every student.
+The system stores the phone number of every student.
 
 
 
 \## Student Address
 
-The system now stores the Address of every student.
+The system stores the address of every student.
 
 
 
 \## Student Gender
 
-The system now stores the gender of every student.
+The system stores the gender of every student.
 
 
 
 \## Student Semester
 
-The system now stores the semester of every student.
+The system stores the semester of every student.
 
 
 
-\## Student Credit Hour
+\## Student Credit Hours
 
-The system now stores the credit hour of every student.
-
-
-
-\## Student Student Status
-
-The system now stores the Student Status of every student.
+The system stores the credit hours of every student.
 
 
 
-\## Student Student name field
+\## Student Status
 
-The system now updated the Student name field of every student.
-
-
-
-\## Student address
-
-The system now improved the Student address capacity field of every student.
+The system stores the status of every student.
 
 
 
-\## Student Student phone number capacity
+\## Student Name Capacity
 
-The system now updated the Student phone number capacity field of every student.
+The student name field supports up to 100 characters.
+
+
+
+\## Student Address Capacity
+
+The student address field supports up to 200 characters.
+
+
+
+\## Student Phone Number Capacity
+
+The student phone number field supports up to 25 characters.
 
 
 
 \## Student ID
 
-The system now improved the Student ID field of every student.
+The student ID field is named `studentId`.
 
 
 
 \## Student Name
 
-The system now renamed the Student Name field of every student.
+The student name field is named `studentName`.
 
 
+
+\## Project Description
+
+The README includes a description of the Student Management System and its purpose.
+
+
+
+\## Project Files
+
+The README documents the project's main files and their purposes.
+
+
+
+\## Team Information
+
+The README includes information about the project team members.
+
+
+
+\## Organized Changelog
+
+The project changelog is organized into version-based sections documenting project changes.
 
