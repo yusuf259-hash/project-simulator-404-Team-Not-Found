@@ -20,6 +20,12 @@ The system now stores the department of every student.
 
 
 
+\## Student email
+
+The system now stores the email of every student.
+
+
+
 \## Student phone number
 
 The system now stores the phone number of every student.
@@ -53,6 +59,4 @@ The system now stores the credit hour of every student.
 \## Student Student Status
 
 The system now stores the Student Status of every student.
-
-
 

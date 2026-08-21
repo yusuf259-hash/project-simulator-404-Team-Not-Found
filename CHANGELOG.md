@@ -20,6 +20,12 @@
 
 
 
+\## Version 1.4
+
+\- Added email field to Student structure.
+
+
+
 \## Version 1.5
 
 \- Added phone number field to Student structure.
@@ -53,6 +59,4 @@
 \## Version 1.10
 
 \- Added Student Status field to Student structure.
-
-
 
