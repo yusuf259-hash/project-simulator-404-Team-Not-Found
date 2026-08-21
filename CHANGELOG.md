@@ -60,3 +60,11 @@
 
 \- Added Student Status field to Student structure.
 
+
+
+\## Version 1.11
+
+\- Updated Student name field to Student structure.
+
+
+
