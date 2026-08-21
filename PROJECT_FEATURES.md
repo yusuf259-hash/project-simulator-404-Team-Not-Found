@@ -60,3 +60,9 @@ The system now stores the credit hour of every student.
 
 The system now stores the Student Status of every student.
 
+
+
+\## Student Student name field
+
+The system now updated the  Student name field of every student.
+
