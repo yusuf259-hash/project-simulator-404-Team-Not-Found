@@ -86,3 +86,9 @@ The system now improved the Student ID field of every student.
 
 
 
+\## Student Name
+
+The system now renamed the Student Name field of every student.
+
+
+
