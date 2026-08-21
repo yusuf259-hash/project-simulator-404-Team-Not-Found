@@ -50,3 +50,9 @@ The system now stores the credit hour of every student.
 
 
 
+\## Student Student Status
+
+The system now stores the Student Status of every student.
+
+
+
