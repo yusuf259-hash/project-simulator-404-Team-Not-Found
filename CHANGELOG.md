@@ -68,9 +68,13 @@
 
 
 
+\## Version 1.12
+
+\- Updated Student address capacity field to Student structure.
+
+
+
 \## Version 1.13
 
 \- Updated Student phone number capacity field to Student structure.
-
-
 

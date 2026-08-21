@@ -74,3 +74,9 @@ The system now updated the Student phone number capacity field of every student.
 
 
 
+\## Student address
+
+The system now improved the Student address capacity field of every student.
+
+
+
